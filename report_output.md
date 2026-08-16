@@ -4,14 +4,14 @@
 
 **Reporting period:** 2024-12-27 to 2025-12-26  
 
-**Report generated:** 2026-08-15 (Version 0 prototype)  
+**Report generated:** 2026-08-16 (Version 0 prototype)  
 
 **Data note:** 1068 rows deduplicated to 1024 unique cases via safetyreportid. occurcountry (chosen over primarysource_reportercountry; usually identical, occasionally differs).
 
 
 ## Narrative Summary and Analysis
 
-[LLM call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce52d9ZEXZfYR7sYe19YL'}. Falling back to raw evidence.]
+[LLM call failed: "Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted". Falling back to raw evidence.]
 [Offline mode — no LLM call made. Raw evidence for 'Narrative Summary and Analysis':]
 {
   "reporting_period": {
@@ -60,7 +60,7 @@
 
 ## Summary Analysis of Cases
 
-[LLM call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce52dCxdD2PSvyvAtRmyr'}. Falling back to raw evidence.]
+[LLM call failed: "Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted". Falling back to raw evidence.]
 [Offline mode — no LLM call made. Raw evidence for 'Summary Analysis of Cases':]
 {
   "case_volume": {
@@ -121,7 +121,7 @@
 
 ## Reaction/Adverse Event Analysis
 
-[LLM call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce52dGB6UzBEVR7P2CpcG'}. Falling back to raw evidence.]
+[LLM call failed: "Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted". Falling back to raw evidence.]
 [Offline mode — no LLM call made. Raw evidence for 'Reaction/Adverse Event Analysis':]
 {
   "top_reactions_overall": {
@@ -159,7 +159,7 @@
 
 ## Serious Cases / 15-Day Alerts
 
-[LLM call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce52dKZkDrGCGTA12FCEo'}. Falling back to raw evidence.]
+[LLM call failed: "Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted". Falling back to raw evidence.]
 [Offline mode — no LLM call made. Raw evidence for 'Serious Cases / 15-Day Alerts':]
 {
   "reporting_period": {
@@ -181,7 +181,7 @@
 
 ## Trends and Important Observations
 
-[LLM call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce52dP9J8dZbsY5hRD5G7'}. Falling back to raw evidence.]
+[LLM call failed: "Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted". Falling back to raw evidence.]
 [Offline mode — no LLM call made. Raw evidence for 'Trends and Important Observations':]
 {
   "monthly_trend": {
@@ -208,7 +208,7 @@
 
 ## History of Actions
 
-[LLM call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce52dSKJGYPNm6aFndqGk'}. Falling back to raw evidence.]
+[LLM call failed: "Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted". Falling back to raw evidence.]
 [Offline mode — no LLM call made. Raw evidence for 'History of Actions':]
 {
   "history_of_actions": null
